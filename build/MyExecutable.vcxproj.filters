@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Sraja\Desktop\srajan\code\appdev\app3\cpp interfrace\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Sraja\Desktop\srajan\code\appdev\app3\cpp interfrace\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{6E35EE4A-CA1F-3078-AB75-900C38E6C8E1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
